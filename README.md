@@ -12,8 +12,8 @@
          * Show the number of bike trips for each type of user and gender for each day of the week.
          
 ## Results
-
-![](Resources/Checkout_Times_For_Users.PNG "This graph visualizes the length of time that bikes are checked out for all riders.")
+"This graph visualizes the length of time that bikes are checked out for all riders."
+![](Resources/Checkout_Times_For_Users.PNG)
 
 ![](Resources/Gender_Breakdown.png "The peie chart visualizes the number of rides according to gender.")
 
