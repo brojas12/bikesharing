@@ -13,19 +13,19 @@
          
 ## Results
 
-![](Resources/Checkout_Times_For_Users.png "This graph visualizes the length of time that bikes are checked out for all riders.")
+![](Resources/Checkout_Times_For_Users.PNG "This graph visualizes the length of time that bikes are checked out for all riders.")
 
 ![](Resources/Gender_Breakdown.png "The peie chart visualizes the number of rides according to gender.")
 
-![](Resources/Top_Starting_Locations.png "This is a symbol map for the most popular bike ride starting locations.")
+![](Resources/Top_Starting_Locations.PNG "This is a symbol map for the most popular bike ride starting locations.")
 
-![](Resources/User_Trips_by_Gender_by_Weekday.png "This graph visualizes a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.")
+![](Resources/User_Trips_by_Gender_by_Weekday.PNG "This graph visualizes a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.")
 
-![](Resources/Checkout_Times_By_Gender.png "This graph visualizes the length of time that bikes are checked out for each gender.")
+![](Resources/Checkout_Times_By_Gender.PNG "This graph visualizes the length of time that bikes are checked out for each gender.")
 
-![](Resources/Trips_by_Weekday_per_Hour.png "This graph visualizes the number of bike trips by weekday for each hour of the day as a heatmap.")
+![](Resources/Trips_by_Weekday_per_Hour.PNG "This graph visualizes the number of bike trips by weekday for each hour of the day as a heatmap.")
 
-![](Resources/Trips_by_Gender_Weekday_per_Hour.png "This graph visualizes the number of bike trips by gender for each hour of each day of the week as a heatmap.")
+![](Resources/Trips_by_Gender_Weekday_per_Hour.PNG "This graph visualizes the number of bike trips by gender for each hour of each day of the week as a heatmap.")
 
 ## Summary
     According to the data gathered for this analysis it is clear that males dominate a large number of 
