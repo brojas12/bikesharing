@@ -36,4 +36,4 @@ This graph visualizes the number of bike trips by gender for each hour of each d
     visualizations to find out what times the bike are being checkout at and the affect the NYC weather 
     has on the number of users. 
 
-[link to dashboard]("https://public.tableau.com/app/profile/bryan.rojas/viz/NYCCitiBikeBreakdown_16485018230240/NYCCitiBikeBreakdown?publish=yes")
+[link to dashboard](https://public.tableau.com/app/profile/bryan.rojas/viz/NYCCitiBikeBreakdown_16485018230240/NYCCitiBikeBreakdown?publish=yes)
